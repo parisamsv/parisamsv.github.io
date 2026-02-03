@@ -24,13 +24,13 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "mypic.png"
-  name             : "Your Sidebar Name"
+  name             : "Seyedeh Parisa Moosavi"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
   location         : "Earth"
   employer         : "Red Brick University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "p.moosavi@rotman.utoronto.ca" 
 
   # Academic websites
   academia         : # URL
