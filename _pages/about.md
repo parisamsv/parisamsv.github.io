@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi, my name is Parisa. I am a Ph.D. Candidate in Operations Management and Statistics at Rotman School of Management, University of Toronto (UofT). Before joining Rotman, I completed my M.Sc. and B.Sc. in Industrial Engineering at [Sharif University of Technology (SUT)](https://en.sharif.edu/). My primary research interests include Dynamic Programming and Combinatorial Optimization.
+Hi, my name is Parisa. I am a Ph.D. Candidate in Operations Management and Statistics at Rotman School of Management, University of Toronto (UofT). Before joining Rotman, I completed my M.Sc. and B.Sc. in Industrial Engineering at Sharif University of Technology (SUT). My primary research interests include Dynamic Programming and Combinatorial Optimization.
 
 I’m the _Vice President of Communications for the [University of Toronto Operations Research Group (UTORG)](https://org.mie.utoronto.ca/)_. If you’d like to give a talk at one of our events, feel free to reach out.
 
