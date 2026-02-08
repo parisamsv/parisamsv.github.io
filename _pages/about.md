@@ -25,30 +25,7 @@ Traffic Conditions**</span> \
   
 Teaching Experience {#teaching}
 ------
-## Univeristy of Toronto
-- **21-712 Operations Research 2** (Graduate & Undergraduate), Sharif University of Technology\
-  *Spring 2022*: Teaching Assistant (Instructor: [Mohammad Modarres Yazdis](https://sina.sharif.edu/~modarres/)) \
-  *Fall 2022*: Teaching Assistant (Instructor: [Mohammad Modarres Yazdis](https://sina.sharif.edu/~modarres/)) 
-- **21-011 Theory of Probability and Its Applications** (Undergraduate), Sharif University of Technology\
-  *Fall 2021*: Teaching Assistant (Instructor: [Seyed Taghi Akhavan Niaki](https://sina.sharif.edu/~niaki/)) \
-  *Spring 2022*: Teaching Assistant (Instructor: [Seyed Taghi Akhavan Niaki](https://sina.sharif.edu/~niaki/)) \
-  <br />
-  **Student Testimonial**:
-  > Your very good manners were one of the great qualities that attracted people to the class. The extra problems that were solved really helped us. Overall, it's a difficult subject, 
-  > but with your problem solving classes, everything was excellent. Thank you.
-- **21-022 Operations Analytics** (Graduate), Sharif University of Technology\
-  *Spring 2022*: Teaching Assistant (Instructor: [Nafiseh Sedghi](http://ie.sharif.ir/~ieweb/?p=faculty/sedghi))
-- **21-114 Microeconomics 1** (Undergraduate), Sharif University of Technology \
-  *Fall 2021*: Teaching Assistant (Instructor: [Mohammad Vesal](https://gsme.sharif.edu/~vesal/)) 
 
-## Sharif University of Technology
-- **21-712 Operations Research 2** (Graduate & Undergraduate), Sharif University of Technology\
-  *Spring 2022*: Teaching Assistant (Instructor: [Mohammad Modarres Yazdis](https://sina.sharif.edu/~modarres/)) \
-  *Fall 2022*: Teaching Assistant (Instructor: [Mohammad Modarres Yazdis](https://sina.sharif.edu/~modarres/)) 
-- **21-011 Theory of Probability and Its Applications** (Undergraduate), Sharif University of Technology\
-  *Fall 2021*: Teaching Assistant (Instructor: [Seyed Taghi Akhavan Niaki](https://sina.sharif.edu/~niaki/)) \
-  *Spring 2022*: Teaching Assistant (Instructor: [Seyed Taghi Akhavan Niaki](https://sina.sharif.edu/~niaki/)) \
-  <br />
 
 Industry Experience {#industry}
 ------
