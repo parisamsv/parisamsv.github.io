@@ -25,3 +25,4 @@ Traffic Conditions**</span> \
 
 ## News
 **May 2026**: I'll be presenting "History-dependent Fluid Relaxations for Weakly Coupled Markov Decision Processes" at [AIMOR 2026](https://haskayne.ucalgary.ca/aimor).
+**April 2026**: I'll be presenting "History-dependent Fluid Relaxations for Weakly Coupled Markov Decision Processes" at [MDAL Research Roundtable](https://www.rotman.utoronto.ca/faculty-and-research/education-labs/management-data-and-analytics-lab/).
