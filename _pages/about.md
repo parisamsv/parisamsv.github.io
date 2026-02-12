@@ -12,7 +12,7 @@ Hi, my name is Parisa. I am a Ph.D. Candidate in Operations Management and Stati
 
 I’m the _Vice President of Communications for the [University of Toronto Operations Research Group (UTORG)](https://org.mie.utoronto.ca/)_. If you’d like to give a talk at one of our events, feel free to reach out.
 
-[CV](https://utoronto-my.sharepoint.com/:b:/g/personal/p_moosavi_rotman_utoronto_ca/IQDkPQsBQpd-Ra0J2sg-vUNgAZenr3cMLoQiRzE9Mi06_NM?e=qIDhsK).
+[CV](https://utoronto-my.sharepoint.com/:b:/g/personal/p_moosavi_rotman_utoronto_ca/IQCoLjrcRPkKSajqOWFDDzgSAVBHDmnHa7z7VVVfMadyj94?e=7i5bWD).
 
 ## Working Papers
 <span style="color: black">**History-dependent Fluid Relaxations for Weakly Coupled Markov Decision Processes**</span> \
