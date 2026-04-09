@@ -23,8 +23,11 @@ main:
   - title: "Awards" #portfolio
     url: /awards/
     
-  # - title: "CV"
-  #   url: /cv/
+  - title: "CV"
+    url: /cv/
+
+  - title: "Beyond Research"
+    url: /beyond-research/
     
   # - title: "CV"
   #   url: /cv-json/
