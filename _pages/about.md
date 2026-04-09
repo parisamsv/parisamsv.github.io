@@ -13,8 +13,6 @@ My research develops scalable methods for solving large, interconnected Markov d
 
 I’m the _Vice President of Communications for the [University of Toronto Operations Research Group (UTORG)](https://org.mie.utoronto.ca/)_. If you’d like to give a talk at one of our events, feel free to reach out.
 
-[CV](https://utoronto-my.sharepoint.com/:b:/g/personal/p_moosavi_rotman_utoronto_ca/IQCj_1HPc3LLTbJlxtwnI8CLAahhykuWU0zJMtRSTs7SH30?e=pMrHxy).
-
 ## Working Papers
 <span style="color: black">**History-dependent Fluid Relaxations for Weakly Coupled Markov Decision Processes**</span> \
   with [Andre Cire](https://discover.research.utoronto.ca/16076-andre-augusto-cire) and [Selvaprabu Nadarajah](https://www.selva-nadarajah.com/)
