@@ -17,8 +17,8 @@ main:
   - title: "Teaching"
     url: /teaching/   
 
-  - title: "Industry" #blogposts
-    url: /industry/
+  # - title: "Industry" #blogposts
+  #   url: /industry/
     
   - title: "Awards" #portfolio
     url: /awards/
