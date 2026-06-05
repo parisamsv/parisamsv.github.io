@@ -13,14 +13,6 @@ My research focuses on policy design in systems with multiple interacting agents
 
 I’m the _Vice President of Communications for the [University of Toronto Operations Research Group (UTORG)](https://org.mie.utoronto.ca/)_. If you’d like to give a talk at one of our events, feel free to reach out.
 
-## Working Papers
-<span style="color: black">**History-dependent Fluid Relaxations for Weakly Coupled Markov Decision Processes**</span> \
-  with Andre Cire and Selvaprabu Nadarajah
-## Theses
-<span style="color: black">**M.Sc.: Van-based Robot Routing Problem with Simultaneous Pickup and Delivery under Time-varying
-Traffic Conditions**</span> \
-  Sharif University of Technolofy, with Mohammadreza Akbari Jokar \
-  Scored "very good", 2022
 
 ## News
 **June 2026**: Co-chairing the "Constraint-Aware Learning and Optimization Across Data, Decisions, and Dynamics" session and presenting my work at [CORS 2026](https://site.pheedloop.com/event/cors2026/home) \
